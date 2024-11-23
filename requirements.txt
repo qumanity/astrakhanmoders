@@ -1,2 +1,9 @@
-Flask==2.1.0  # или версия Flask, которая у вас используется
+click==8.1.7
+colorama==0.4.6
+Flask==2.1.0
 gunicorn==20.1.0
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==3.0.2
+setuptools==75.6.0
+Werkzeug==3.1.3
